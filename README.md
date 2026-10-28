@@ -36,6 +36,8 @@ That is the whole integration. Eight of the nine designs are real 3D forms, rota
 
 **[Download the 30-second demo video (MP4)](assets/demo.mp4)**
 
+**[Try it in your browser](docs/demo.html)**: all nine designs on one page, with the demo video.
+
 ## Installation
 
 In Xcode: **File > Add Package Dependencies** and paste
